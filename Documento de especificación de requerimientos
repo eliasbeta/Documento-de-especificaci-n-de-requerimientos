@@ -30,15 +30,37 @@ detalles. En la sección 3 se definen detalladamente los requisitos que debe sat
 Este sistema solamente está relacionado con la aplicación que la FEI para que los alumnos escojan sus opciones para las
 Dependencias dónde harán su SS.
 2.2.	Funciones del producto
+la funciones que contiene este software son divididas en 2 las de alumno y maestro, las funciones del maestro son poder seleccionar un alumno para ver su expediente en linea y 
+agrear los archivos con el paso del tiempo , guardar los cambios , visualisar algun archivo que necesite accesar a el.
 2.3.	Características de los usuarios
+hay 2 tipos de usuarios: los maestros y los alumnos
 2.4.	Restricciones
+las personas que no esten registrados dentro del sistema no tendran acceso a el, por lo cual personas que no esten inscritos en e
+servicio social no tendran acceso.
+los maestros con acceso a este sistema tendran siertas reglas que se tendran que apegar para poder subir los archivos, como son 
+formato y fechas de documento.
+los alumnos que accedan al sistema pono tendran acceso a subir docuementos y configurarlos como las cuentas de maestros.
 2.5.	Suposiciones y dependencias
+
 2.6.	Requisitos futuros
+loas requisitos que se necesitaran en un futuro iran surgiendo con el paso de que los usuarios utilicen el servicio de servicio social, ademas 
+de que se iran agregando funcionalidades al sistema dependiendo de las necesidades que surjan.
 3.	Requisitos específicos
 3.1.	Interfaces extremas
+Intefaces de usuario 
+Interfaces hardware 
+Interfaces software 
+Interfaces de comunicaciones
 3.2.	Funciones
+
 3.3.	Requisitos de rendimiento
+Flujos de información 
+Descripción de procesos
+Diccionario de datos
 3.4.	Restricciones de diseño
+debe de soportar la salida de informacione en forma de texto y en forma de documentos den cualqueir formmato que en este se encuentren
 3.5.	Atributos del sistema
+
 3.6.	Otros requisitos
+
 5.	Índice
